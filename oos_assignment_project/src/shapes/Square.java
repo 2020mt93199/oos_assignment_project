@@ -8,4 +8,10 @@ public class Square {
 	double peri=2* (4 + 4);
 	System.out.println("Perimeter is: "+ peri);
 	}
+	/* this is contribution by contributor 2, topic branch 2
+	 * added*/
+	{
+		double peri=2* (8 + 8);
+		System.out.println("Perimeter is: "+ peri);
+		}
 }
