@@ -1,4 +1,4 @@
-# OOS Assignment Poject
+# OSS Assignment Poject
 ## Assignment 4
 
 ## What the project does
